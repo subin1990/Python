@@ -19,4 +19,5 @@ def Display(obj):
 D= Duck()
 dog= Dog()
 Display(dog)
-
+P= Person()
+Display(P)
